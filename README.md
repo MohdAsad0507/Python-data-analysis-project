@@ -166,3 +166,60 @@ Used:
 * Indicates service consistency issues
 
 
+## 📸 Visual Insights
+
+### Occupancy percentage column
+<img width="1878" height="839" alt="Screenshot 2026-03-17 140426" src="https://github.com/user-attachments/assets/901d125c-c290-44bd-b491-d53f224336ee" />
+
+### Booking Platform Contribution
+<img width="1045" height="830" alt="Screenshot 2026-03-17 143351" src="https://github.com/user-attachments/assets/402db04a-91b4-49f7-a6bb-d9a496e97e61" />
+
+### Average occupancy in each room category
+<img width="1866" height="512" alt="Screenshot 2026-03-17 140527" src="https://github.com/user-attachments/assets/f98526da-9164-42b4-a07c-8178b7521ced" />
+
+### Revenue realized per hotel type
+<img width="1262" height="453" alt="Screenshot 2026-03-17 144020" src="https://github.com/user-attachments/assets/ecd52442-90e8-437d-9db6-4d1a9e68856e" />
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+* 🐍 Python
+
+* 🐼 Pandas
+
+* 🔢 NumPy
+
+* 📊 Matplotlib / Seaborn
+
+* 📓 Jupyter Notebook
+
+* 🔧 Git & GitHub
+
+## 💡 Skills Demonstrated
+
+* 🧹 Data Cleaning
+
+* 📊 Exploratory Data Analysis
+
+* 🔄 Data Transformation
+
+* 📈 Business Insight Generation
+
+* 🧠 Analytical Thinking
+
+## 🌟 What Makes This Project Strong
+
+✅ Real-world business problem
+
+✅ Structured data model (star schema)
+
+✅ End-to-end analysis workflow
+
+✅ Insight-driven approach (not just code)
+
+# 👤 Author
+
+   Mohd Asad 
+🎓 MCA Student | 📊 Aspiring Data Analyst
+
